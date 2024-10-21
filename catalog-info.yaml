@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: clean-code-workshop-template
+  annotations:
+    github.com/project-slug: MohanaKV/clean-code-workshop-template
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
